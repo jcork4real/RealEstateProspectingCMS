@@ -28,7 +28,7 @@ body{
 }
 
 /*Progress Bar*/
-.card{
+#progress-card{
     margin-top: 15px;
 }
 
