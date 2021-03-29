@@ -8,3 +8,5 @@ I wanted to learn Bootstrap 4 and figureout how to make my own CMS. I thought it
 Can access current version of CMS here:
 
 https://jcork4real.github.io/RealEstateProspectingCMS/
+
+<p>Check out <a href="https://jcork4real.github.io/RealEstateProspectingCMS/" target="_blank">Prospecting CMS</a>.</p>
